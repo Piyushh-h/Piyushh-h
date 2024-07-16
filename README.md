@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hdtikqupijzdyymhxljertebje&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" align="right" />
 </div>
-🔭 I’m currently working on MERN stack<br> 🧠I’m also learning the Core Concepts of UI/UX Design <br>💬 Ask me about Data Structures and Algorithms<br>
+🔭 I’m currently working on MERN stack<br>💬 Ask me about Data Structures and Algorithms<br>
 
 
 # 💻 Tech Stack:
